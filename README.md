@@ -1,5 +1,11 @@
 # Machine Learning Engineer Nanodegree
 # Supervised Learning
+
+# Information
+
+This repo contains the implementation written by Renato L. F. Cunha. The final review
+can be found at [udacity](https://review.udacity.com/#!/reviews/296492/shared).
+
 ## Project: Finding Donors for CharityML
 
 ### Install
